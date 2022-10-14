@@ -1,5 +1,10 @@
 # Filmer
 ## Kinesiska filmer
+### Huo Jianqi
+* 1999 Postmen in the Mountains
+### Jia Zhangke
+* 2013 A Touch of Sin
+* -> 2015 Mountains May Depart <-
 ### Wong Jiawei
 * 1994 Chungking Express
 * 1995 Fallen Angels
