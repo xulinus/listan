@@ -1,5 +1,9 @@
 # Filmer
 ## Kinesiska filmer
+### Andrew Lau & Alan Mak
+* 2002 Infernal Affairs
+* 2003 Infernal Affairs II
+* 2003 Infernal Affairs III
 ### Huo Jianqi
 * 1999 Postmen in the Mountains
 ### Jia Zhangke
@@ -19,3 +23,4 @@
 * 2010 Under the Hawthorn Tree
 * 2011 The Flowers of War
 * 2014 Coming Home 
+## Koreansk film
